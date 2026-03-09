@@ -37,14 +37,6 @@ I build modern web experiences with a focus on usability, performance, and maint
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## GitHub stats
-
-<div align="center">
-
-![KevClint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevClint&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevClint&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## What you'll find here
 
